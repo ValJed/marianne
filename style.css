@@ -63,7 +63,7 @@ html, body {
 .marianne-container .face {
   position: absolute;
   width: 23%;
-  height: 22%;
+  height: 21%;
   left: calc(50% - 12%);
   top: 42.5%;
   /* border: 2px solid teal; */
