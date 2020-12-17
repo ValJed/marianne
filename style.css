@@ -65,7 +65,7 @@ html, body {
   position: absolute;
   width: 23%;
   height: 21%;
-  left: calc(50% - 12%);
+  left: calc(50% - 12.5%);
   top: 42.5%;
   /* border: 2px solid teal; */
   overflow: hidden;
