@@ -94,11 +94,11 @@ html, body {
   }
 
   .flag > div:first-child {
-    flex: 1;
+    width: calc(50% - 88px);
   }
 
   .flag > div:nth-child(2) {
-    width: 175px;
+    width: 174.5px;
   }
 
   .face img:first-child {
